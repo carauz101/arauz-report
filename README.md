@@ -1,2 +1,2 @@
 # arauz-report
-My Daily Eeport
+My Daily Report
